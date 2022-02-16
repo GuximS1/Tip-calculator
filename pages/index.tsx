@@ -33,7 +33,6 @@ const Home: NextPage = () => {
       return;
     }
   }
-  console.log(bill);
   return (
     <div className={styles.container}>
       <div className={styles.calculator}>
